@@ -1,0 +1,8 @@
+{
+  "name": "koodimonni-plugin-language/klarna-payments-for-woocommerce-lang",
+  "type": "wordpress-language",
+  "description": "Klarna Payments for WooCommerce Lang Language",
+  "require": {
+    "koodimonni/composer-dropin-installer": "*"
+  }
+}
